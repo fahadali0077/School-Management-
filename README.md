@@ -1,2 +1,2 @@
-# School-Management-
-This is a simple School Management 
+﻿# MERN-Stack-Student-Management-System
+
